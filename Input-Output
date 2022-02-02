@@ -1,0 +1,27 @@
+enter entries
+1
+0
+1
+1
+0
+0
+1
+1
+1
+[[1, 0, 1], [1, 0, 0], [1, 1, 1]]
+Before cleaning the room I detect all of these random dirts
+[[1, 0, 1], [1, 0, 0], [1, 1, 1]]
+Vaccum in this location now, 0 0
+cleaned 0 0
+Vaccum in this location now, 0 2
+cleaned 0 2
+Vaccum in this location now, 1 0
+cleaned 1 0
+Vaccum in this location now, 2 0
+cleaned 2 0
+Vaccum in this location now, 2 1
+cleaned 2 1
+Vaccum in this location now, 2 2
+cleaned 2 2
+cost =  6
+[[0, 0, 0], [0, 0, 0], [0, 0, 0]]
